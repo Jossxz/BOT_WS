@@ -2,12 +2,6 @@
 Projeto de automatização.
 
 # ---------
-# BOT_WS
-# ---------
-
-
-
-# ---------
 # Base
 # ---------
 
